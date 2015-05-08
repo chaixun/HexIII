@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hex/HexIII_CX/HexIII_Vision/Client.cpp
+Client.h
+/home/hex/HexIII_CX/HexIII_Vision/Client.h
+
+/home/hex/HexIII_CX/HexIII_Vision/Client.h
+iostream
+-
+cstring
+-
+Aris_Socket.h
+-
+Aris_Message.h
+-
+
+/usr/include/Aris/Aris_Core.h
+
+/usr/include/Aris/Aris_Message.h
+Aris_Core.h
+/usr/include/Aris/Aris_Core.h
+functional
+-
+
+/usr/include/Aris/Aris_Socket.h
+Platform.h
+/usr/include/Aris/Platform.h
+Aris_Thread.h
+/usr/include/Aris/Aris_Thread.h
+Aris_Core.h
+/usr/include/Aris/Aris_Core.h
+
+/usr/include/Aris/Aris_Thread.h
+Platform.h
+/usr/include/Aris/Platform.h
+
+/usr/include/Aris/Platform.h
+
