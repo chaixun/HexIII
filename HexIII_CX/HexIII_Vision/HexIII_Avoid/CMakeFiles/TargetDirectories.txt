@@ -1,0 +1,3 @@
+/home/hex/HexIII_CX/HexIII_Avoid/CMakeFiles/Control_Client.dir
+/home/hex/HexIII_CX/HexIII_Avoid/CMakeFiles/HexIII_Avoid.dir
+/home/hex/HexIII_CX/HexIII_Avoid/CMakeFiles/Vision_Client.dir
