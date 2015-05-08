@@ -1,0 +1,12 @@
+#C++
+*.slo
+*.lo
+*.o
+*.obj
+
+#local
+log*.botlog
+log*.txt
+GridMap*.txt
+Gait.txt
+
