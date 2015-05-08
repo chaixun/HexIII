@@ -1,3 +1,0 @@
-/home/hex/HexIII_CX/HexIII_Calibration/CMakeFiles/Control_Client.dir
-/home/hex/HexIII_CX/HexIII_Calibration/CMakeFiles/HexIII_Calibration.dir
-/home/hex/HexIII_CX/HexIII_Calibration/CMakeFiles/Vision_Client.dir

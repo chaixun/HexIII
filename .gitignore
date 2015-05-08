@@ -1,10 +1,10 @@
-#C++
+# C++:
 *.slo
 *.lo
 *.o
 *.obj
 
-#local
+# local:
 log*.botlog
 log*.txt
 GridMap*.txt
