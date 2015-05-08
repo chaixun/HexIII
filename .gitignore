@@ -10,4 +10,10 @@ log*.txt
 GridMap*.txt
 Gait.txt
 
+*.config
+*.creator
+*.user
+*.files
+
+
 gait
