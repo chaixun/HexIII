@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hex/HexIII_CX/pointcloud/kinect.cpp
+/home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.cpp
 kinect.h
-/home/hex/HexIII_CX/pointcloud/kinect.h
+/home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.h
 
-/home/hex/HexIII_CX/pointcloud/kinect.h
+/home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.h
 pcl/io/openni_grabber.h
 -
 pcl/visualization/cloud_viewer.h
@@ -30,9 +30,9 @@ opencv2/highgui/highgui.hpp
 opencv/cv.h
 -
 
-/home/hex/HexIII_CX/pointcloud/main.cpp
+/home/chaixun/HexIII/HexIII_CX/pointcloud/main.cpp
 kinect.h
-/home/hex/HexIII_CX/pointcloud/kinect.h
+/home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.h
 iostream
 -
 time.h

@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hex/HexIII_CX/pointcloud
+CMAKE_SOURCE_DIR = /home/chaixun/HexIII/HexIII_CX/pointcloud
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hex/HexIII_CX/pointcloud
+CMAKE_BINARY_DIR = /home/chaixun/HexIII/HexIII_CX/pointcloud
 
 # Include any dependencies generated for this target.
 include CMakeFiles/kinectpointcloud.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/kinectpointcloud.dir/flags.make
 
 CMakeFiles/kinectpointcloud.dir/main.cpp.o: CMakeFiles/kinectpointcloud.dir/flags.make
 CMakeFiles/kinectpointcloud.dir/main.cpp.o: main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/hex/HexIII_CX/pointcloud/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/kinectpointcloud.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kinectpointcloud.dir/main.cpp.o -c /home/hex/HexIII_CX/pointcloud/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kinectpointcloud.dir/main.cpp.o -c /home/chaixun/HexIII/HexIII_CX/pointcloud/main.cpp
 
 CMakeFiles/kinectpointcloud.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kinectpointcloud.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/hex/HexIII_CX/pointcloud/main.cpp > CMakeFiles/kinectpointcloud.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/chaixun/HexIII/HexIII_CX/pointcloud/main.cpp > CMakeFiles/kinectpointcloud.dir/main.cpp.i
 
 CMakeFiles/kinectpointcloud.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kinectpointcloud.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/hex/HexIII_CX/pointcloud/main.cpp -o CMakeFiles/kinectpointcloud.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/chaixun/HexIII/HexIII_CX/pointcloud/main.cpp -o CMakeFiles/kinectpointcloud.dir/main.cpp.s
 
 CMakeFiles/kinectpointcloud.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/kinectpointcloud.dir/main.cpp.o.requires
@@ -74,17 +74,17 @@ CMakeFiles/kinectpointcloud.dir/main.cpp.o.provides.build: CMakeFiles/kinectpoin
 
 CMakeFiles/kinectpointcloud.dir/kinect.cpp.o: CMakeFiles/kinectpointcloud.dir/flags.make
 CMakeFiles/kinectpointcloud.dir/kinect.cpp.o: kinect.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/hex/HexIII_CX/pointcloud/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/kinectpointcloud.dir/kinect.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kinectpointcloud.dir/kinect.cpp.o -c /home/hex/HexIII_CX/pointcloud/kinect.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/kinectpointcloud.dir/kinect.cpp.o -c /home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.cpp
 
 CMakeFiles/kinectpointcloud.dir/kinect.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/kinectpointcloud.dir/kinect.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/hex/HexIII_CX/pointcloud/kinect.cpp > CMakeFiles/kinectpointcloud.dir/kinect.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.cpp > CMakeFiles/kinectpointcloud.dir/kinect.cpp.i
 
 CMakeFiles/kinectpointcloud.dir/kinect.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/kinectpointcloud.dir/kinect.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/hex/HexIII_CX/pointcloud/kinect.cpp -o CMakeFiles/kinectpointcloud.dir/kinect.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.cpp -o CMakeFiles/kinectpointcloud.dir/kinect.cpp.s
 
 CMakeFiles/kinectpointcloud.dir/kinect.cpp.o.requires:
 .PHONY : CMakeFiles/kinectpointcloud.dir/kinect.cpp.o.requires
@@ -230,6 +230,7 @@ kinectpointcloud: /usr/lib/libvtkIO.so.5.8.0
 kinectpointcloud: /usr/lib/libvtkFiltering.so.5.8.0
 kinectpointcloud: /usr/lib/libvtkCommon.so.5.8.0
 kinectpointcloud: /usr/lib/libvtksys.so.5.8.0
+kinectpointcloud: /usr/local/share/OpenCV/3rdparty/lib/libippicv.a
 kinectpointcloud: /usr/local/lib/libopencv_features2d.so.3.0.0
 kinectpointcloud: /usr/local/lib/libopencv_ml.so.3.0.0
 kinectpointcloud: /usr/local/lib/libopencv_highgui.so.3.0.0
@@ -256,6 +257,6 @@ CMakeFiles/kinectpointcloud.dir/clean:
 .PHONY : CMakeFiles/kinectpointcloud.dir/clean
 
 CMakeFiles/kinectpointcloud.dir/depend:
-	cd /home/hex/HexIII_CX/pointcloud && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hex/HexIII_CX/pointcloud /home/hex/HexIII_CX/pointcloud /home/hex/HexIII_CX/pointcloud /home/hex/HexIII_CX/pointcloud /home/hex/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/chaixun/HexIII/HexIII_CX/pointcloud && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/chaixun/HexIII/HexIII_CX/pointcloud /home/chaixun/HexIII/HexIII_CX/pointcloud /home/chaixun/HexIII/HexIII_CX/pointcloud /home/chaixun/HexIII/HexIII_CX/pointcloud /home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/kinectpointcloud.dir/depend
 

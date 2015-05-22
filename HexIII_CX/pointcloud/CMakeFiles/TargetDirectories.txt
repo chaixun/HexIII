@@ -1,1 +1,1 @@
-/home/hex/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir
+/home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir

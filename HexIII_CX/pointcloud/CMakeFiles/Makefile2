@@ -47,10 +47,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hex/HexIII_CX/pointcloud
+CMAKE_SOURCE_DIR = /home/chaixun/HexIII/HexIII_CX/pointcloud
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hex/HexIII_CX/pointcloud
+CMAKE_BINARY_DIR = /home/chaixun/HexIII/HexIII_CX/pointcloud
 
 #=============================================================================
 # Target rules for target CMakeFiles/kinectpointcloud.dir
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/hex/HexIII_CX/pointcloud
 CMakeFiles/kinectpointcloud.dir/all:
 	$(MAKE) -f CMakeFiles/kinectpointcloud.dir/build.make CMakeFiles/kinectpointcloud.dir/depend
 	$(MAKE) -f CMakeFiles/kinectpointcloud.dir/build.make CMakeFiles/kinectpointcloud.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/hex/HexIII_CX/pointcloud/CMakeFiles  1 2
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles  1 2
 	@echo "Built target kinectpointcloud"
 .PHONY : CMakeFiles/kinectpointcloud.dir/all
 
@@ -69,9 +69,9 @@ all: CMakeFiles/kinectpointcloud.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/kinectpointcloud.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hex/HexIII_CX/pointcloud/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/kinectpointcloud.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hex/HexIII_CX/pointcloud/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles 0
 .PHONY : CMakeFiles/kinectpointcloud.dir/rule
 
 # Convenience name for target.
