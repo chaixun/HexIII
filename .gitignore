@@ -15,3 +15,10 @@ Gait.txt
 *.user
 *.files
 
+<<<<<<< HEAD
+=======
+CMaKeFiles
+
+CMakeCache
+
+.*~

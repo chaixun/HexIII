@@ -4,8 +4,8 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hex/HexIII_CX/pointcloud/kinect.cpp" "/home/hex/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir/kinect.cpp.o"
-  "/home/hex/HexIII_CX/pointcloud/main.cpp" "/home/hex/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir/main.cpp.o"
+  "/home/chaixun/HexIII/HexIII_CX/pointcloud/kinect.cpp" "/home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir/kinect.cpp.o"
+  "/home/chaixun/HexIII/HexIII_CX/pointcloud/main.cpp" "/home/chaixun/HexIII/HexIII_CX/pointcloud/CMakeFiles/kinectpointcloud.dir/main.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
